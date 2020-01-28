@@ -1,0 +1,32 @@
+.Login {
+
+    font-size: 20px;
+    position: absolute;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    top: 250px;
+    right: 550px;
+    width: 300px;
+    border: 3px solid #DCDCDC;
+    background-color: #DCDCDC;
+    border-radius: 15px;
+    border-style: outset;
+}
+.Register {
+    font-size: 20px;
+    position: absolute;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    top: 200px;
+    right: 550px;
+    width: 300px;
+    border: 3px solid #DCDCDC;
+    background-color: #DCDCDC;
+    border-radius: 15px;
+    border-style: outset;
+}
+body {
+    background-color: #e6f5ff;
+}
